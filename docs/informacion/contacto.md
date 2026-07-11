@@ -1,6 +1,7 @@
 ---
 title: Contacto
 description: Todas las formas de conectar con Ánima Espacio Cultural.
+order: 20
 ---
 
 ¿Querés sumarte? ¿Tenés una pregunta? ¿Querés proponer algo?
@@ -38,7 +39,7 @@ Montevideo, Uruguay
 
 Barrio Larrañaga, cerca de Avenida Ellauri.
 
-[Ver en Google Maps](#)
+[Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=San+Jos%C3%A9+822%2C+Montevideo%2C+Uruguay)
 
 **Acceso:** La casa está abierta durante horarios comunes (lunes a sábado, 8 a 21 h)
 
@@ -79,7 +80,7 @@ Suscribite para recibir:
 - Novedades de la casa
 - Historias de colaboradorxs
 
-[Suscribirme a newsletter](#)
+**Suscribirme a newsletter** _(próximamente)_
 
 ---
 
@@ -92,13 +93,13 @@ Asamblea mensual abierta a todxs.
 **Próxima:** [fecha y hora]  
 **Lugar:** Casa Soca, San José 822
 
-[Ver calendario completo](#)
+**Ver calendario completo** _(próximamente)_
 
 ### 📅 Actividades
 
 Talleres, cursos, eventos y más.
 
-[Explorar calendario de actividades](#)
+**Explorar calendario de actividades** _(próximamente)_
 
 ---
 
@@ -165,7 +166,7 @@ Podemos hacer un tour mostrándote espacios, historia, cómo funciona.
 
 Mirá el calendario y regístrate en la que te interese.
 
-[Ver actividades](#)
+**Ver actividades** _(próximamente)_
 
 ---
 
@@ -205,16 +206,16 @@ O comenta en la próxima Ágora.
 ## Próximos pasos
 
 ### 1️⃣ Si querés colaborar
-[Ir a Modalidades](#)
+[Ir a Modalidades](/participar/modalidades.md)
 
 ### 2️⃣ Si querés proponer algo
-[Ir a Proponer un proyecto](#)
+[Ir a Proponer un proyecto](/participar/proponer-proyecto.md)
 
 ### 3️⃣ Si querés preguntar
-[Ir a Preguntas frecuentes](#)
+[Ir a Preguntas frecuentes](/informacion/preguntas-frecuentes.md)
 
 ### 4️⃣ Si querés saber más
-[Ir a ¿Quiénes somos?](#)
+[Ir a ¿Quiénes somos?](/la-comunidad/quienes-somos.md)
 
 ---
 

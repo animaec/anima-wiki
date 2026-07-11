@@ -1,6 +1,7 @@
 ---
 title: Modalidades para participar
 description: Las distintas formas de sumarte a la comunidad de Ánima.
+order: 30
 ---
 
 Elegí la que mejor se adapte a lo que querés hacer. Podés empezar con una y pasar a otra con el tiempo.
@@ -156,4 +157,4 @@ Elegí la que mejor se adapte a lo que querés hacer. Podés empezar con una y p
 
 ---
 
-**¿Listo para sumarte?** [Proponer un proyecto](#) o escribí a **hola@animaespacio.org**
+**¿Listo para sumarte?** [Proponer un proyecto](/participar/proponer-proyecto.md) o escribí a **hola@animaespacio.org**

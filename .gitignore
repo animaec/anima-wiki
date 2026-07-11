@@ -1,7 +1,7 @@
 # build output
 dist/
-# generated types
-.astro/
+.retype/
+retype.manifest
 
 # dependencies
 node_modules/

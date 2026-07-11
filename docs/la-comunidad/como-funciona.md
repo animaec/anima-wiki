@@ -1,6 +1,7 @@
 ---
 title: Cómo funciona Ánima
 description: Estructura comunitaria, roles y toma de decisiones en Ánima.
+order: 10
 ---
 
 ## Comunidad abierta
@@ -118,4 +119,4 @@ La referencia publicada para intercambios internos entre mantenedorxs y colabora
 
 ---
 
-**Próximo:** [Modalidades para participar](#) — Colaborador, Mantenedor, Residente
+**Próximo:** [Modalidades para participar](/participar/modalidades.md) — Colaborador, Mantenedor, Residente

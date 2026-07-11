@@ -1,6 +1,7 @@
 ---
 title: Proponer un proyecto
 description: Pasos para proponer un proyecto cultural, social o educativo.
+order: 10
 ---
 
 ¿Tenés una idea? Ánima recibe proyectos culturales, sociales, educativos y artísticos que compartan nuestros valores.
@@ -203,4 +204,4 @@ Nos encantaría conocer tu proyecto.
 
 ---
 
-**Próximo:** [Estrategia de comunicación](#) — Cómo comunicamos tu actividad
+**Próximo:** [Estrategia de comunicación](/informacion/comunicacion.md) — Cómo comunicamos tu actividad

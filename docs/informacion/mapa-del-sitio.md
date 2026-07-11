@@ -1,6 +1,7 @@
 ---
 title: Mapa del sitio
 description: Estructura completa de la wiki de Ánima Espacio Cultural.
+order: 10
 ---
 
 ## Estructura completa de contenidos

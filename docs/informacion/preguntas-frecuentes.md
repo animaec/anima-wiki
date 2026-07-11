@@ -1,6 +1,7 @@
 ---
 title: Preguntas frecuentes
 description: Respuestas a las dudas más comunes sobre Ánima.
+order: 30
 ---
 
 Acá están las dudas que nos hacen frecuentemente. Si no encontrás respuesta, escribí.
@@ -30,13 +31,13 @@ Compartimos:
 - Cuidado de personas y espacios
 - Economía social y solidaria
 
-[Ver más en Nuestros valores](#)
+[Ver más en Nuestros valores](/la-comunidad/quienes-somos.md)
 
 ### ¿Cuál es la historia de Ánima?
 
 Surgió en 2015 como colectivo. Entre 2015-2022 funcionó en Palermo. Desde marzo de 2022 estamos en Casa Soca, una casa patrimonial en San José 822.
 
-[Leer historia completa](#)
+[Leer historia completa](/la-comunidad/quienes-somos.md)
 
 ### ¿Ánima es un lugar físico o también online?
 
@@ -56,8 +57,8 @@ Depende de lo que quieras hacer:
 
 - **Colaboración puntual:** escribí y ofrecé tu ayuda
 - **Colaboración regular:** sumarte a un grupo de trabajo
-- **Proyecto propio:** [proponer un proyecto](#)
-- **Residencia:** [ver modalidades](#)
+- **Proyecto propio:** [proponer un proyecto](/participar/proponer-proyecto.md)
+- **Residencia:** [ver modalidades](/participar/modalidades.md)
 
 Primer paso: escribí a **hola@animaespacio.org** o asistí a una Ágora.
 
@@ -101,7 +102,7 @@ Si es una cosa puntual, no hay problema. Si faltás recurrentemente en algo que 
 | **Beneficios** | Básicos | Amplios + 70/30 ingresos |
 | **Participación** | Flexible | Activa en Ágoras |
 
-[Ver más en Cómo funciona](#)
+[Ver más en Cómo funciona](/la-comunidad/como-funciona.md)
 
 ### ¿Puedo cambiar de modalidad?
 
@@ -130,7 +131,7 @@ Casa Soca tiene aproximadamente 1.000 m²:
 - **Sala chica:** 17 m² (reuniones, talleres)
 - **Otros espacios:** según disponibilidad
 
-[Ver detalles en Servicios y tarifas](#)
+[Ver detalles en Servicios y tarifas](/participar/servicios-tarifas.md)
 
 ### ¿Cuánto cuesta alquilar un espacio?
 
@@ -141,7 +142,7 @@ Depende del tipo de actividad:
 - **Eventos:** UY$ 1.500/hora
 - **Taller residente:** UY$ 700/m² al mes
 
-[Ver tarifas completas](#)
+[Ver tarifas completas](/participar/servicios-tarifas.md)
 
 ### ¿Se pueden negociar tarifas?
 
@@ -160,7 +161,7 @@ Escribí: **hola@animaespacio.org**
 - Equipamiento (sonido, luces, proyector)
 - Acompañamiento en gestión
 
-[Ver Servicios](#)
+[Ver Servicios](/participar/servicios-tarifas.md)
 
 ---
 
@@ -194,7 +195,7 @@ No hay jefes decidiendo. Decidimos entre todxs.
 3. Se presenta en Ágora si sigue sin resolverse
 4. La comunidad decide
 
-[Ver Código de convivencia](#)
+[Ver Código de convivencia](/informacion/codigo-convivencia.md)
 
 ### ¿Cómo se financia Ánima?
 
@@ -218,7 +219,7 @@ Es un modelo de sostenibilidad compartida.
 4. Presentás en próxima Ágora
 5. ¡Comenzamos!
 
-[Ver pasos detallados](#)
+[Ver pasos detallados](/participar/proponer-proyecto.md)
 
 ### ¿Cuánto tarda en aprobarse una propuesta?
 
@@ -313,7 +314,7 @@ Salvo eventos u otras actividades programadas.
 
 📍 **San José 822, Montevideo, Uruguay**
 
-Barrio Larrañaga. [Ver en mapa](#)
+Barrio Larrañaga. [Ver en mapa](https://www.google.com/maps/search/?api=1&query=San+Jos%C3%A9+822%2C+Montevideo%2C+Uruguay)
 
 ### ¿Hay estacionamiento?
 
@@ -369,4 +370,4 @@ Cualquier aporte suma.
 
 ---
 
-**Próximo:** [Contacto](#) — Vías de comunicación
+**Próximo:** [Contacto](/informacion/contacto.md) — Vías de comunicación

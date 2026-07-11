@@ -1,6 +1,7 @@
 ---
 title: Estrategia de comunicación
 description: Cómo comunicamos las actividades y proyectos de la comunidad.
+order: 40
 ---
 
 Uno de los beneficios de trabajar con Ánima es que **ayudamos a comunicar tu actividad**.
@@ -237,4 +238,4 @@ Te asesoramos en qué canales funcionan mejor para tu actividad.
 
 ---
 
-**Próximo:** [Preguntas frecuentes](#) — Dudas que ya nos hicieron
+**Próximo:** [Preguntas frecuentes](/informacion/preguntas-frecuentes.md) — Dudas que ya nos hicieron

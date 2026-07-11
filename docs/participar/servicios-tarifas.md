@@ -1,6 +1,7 @@
 ---
 title: Servicios y tarifas
 description: Valores de referencia para el uso de espacios y actividades.
+order: 20
 ---
 
 Estos son nuestros valores de referencia. **Todas las tarifas deben confirmarse antes de cerrar un acuerdo**, ya que pueden cambiar según la situación.
@@ -160,4 +161,4 @@ Conversamos tu situación específica y encontramos la mejor modalidad.
 
 ---
 
-**Próximo:** [Código de convivencia](#) — Cómo nos relacionamos en Ánima
+**Próximo:** [Código de convivencia](/informacion/codigo-convivencia.md) — Cómo nos relacionamos en Ánima

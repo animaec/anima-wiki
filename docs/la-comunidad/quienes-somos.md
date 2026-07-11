@@ -1,6 +1,7 @@
 ---
 title: Quiénes somos
 description: Historia, valores y ubicaciones de Ánima Espacio Cultural.
+order: 20
 ---
 
 ## Nuestra historia
@@ -84,4 +85,4 @@ Las áreas principales son:
 
 ---
 
-**Próximo:** [Cómo funciona Ánima](#) — Entendé los roles, la Ágora y cómo se toman decisiones
+**Próximo:** [Cómo funciona Ánima](/la-comunidad/como-funciona.md) — Entendé los roles, la Ágora y cómo se toman decisiones

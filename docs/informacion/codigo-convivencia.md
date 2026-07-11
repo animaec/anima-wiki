@@ -1,6 +1,7 @@
 ---
 title: Código de convivencia
 description: Acuerdos de relacionamiento y cuidado del espacio en Ánima.
+order: 50
 ---
 
 Al participar en Ánima, en espacios físicos o digitales, aceptamos estos acuerdos.
@@ -166,4 +167,4 @@ Conversamos en la próxima Ágora o escribí a:
 
 ---
 
-**Próximo:** [Proponer un proyecto](#) — Cómo sumarte con tu idea
+**Próximo:** [Proponer un proyecto](/participar/proponer-proyecto.md) — Cómo sumarte con tu idea
