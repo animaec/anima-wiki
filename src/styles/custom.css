@@ -1,0 +1,64 @@
+/* Branding de Ánima Espacio Cultural */
+
+:root {
+  --sl-color-accent-high: #009476;
+  --sl-color-accent-low: #d53f6e;
+  --sl-color-gray-1: #660099;
+  --sl-color-gray-2: #e19014;
+  --sl-color-gray-6: #333333;
+}
+
+/* Dark mode */
+:root[data-theme='dark'] {
+  --sl-color-accent-high: #00d4a3;
+  --sl-color-accent-low: #ff6b9d;
+}
+
+/* Custom branding */
+.sl-markdown-content h1 {
+  color: #009476;
+  border-bottom: 3px solid #660099;
+  padding-bottom: 0.5rem;
+}
+
+.sl-markdown-content h2 {
+  color: #660099;
+  margin-top: 2rem;
+}
+
+.sl-markdown-content a {
+  color: #009476;
+  font-weight: 500;
+}
+
+.sl-markdown-content a:hover {
+  color: #d53f6e;
+}
+
+/* Hero page */
+.sl-markdown-content > :first-child {
+  font-size: 1.1rem;
+  color: #666;
+}
+
+/* Sidebar styling */
+.sl-sidebar-item a:hover,
+.sl-sidebar-item.active > a {
+  color: #009476;
+  background-color: rgba(0, 148, 118, 0.1);
+}
+
+/* Callouts/admonitions */
+.sl-markdown-content .starlight-aside {
+  border-left-color: #009476;
+}
+
+.sl-markdown-content .starlight-aside.note {
+  border-left-color: #660099;
+  background-color: rgba(102, 0, 153, 0.05);
+}
+
+.sl-markdown-content .starlight-aside.warning {
+  border-left-color: #e19014;
+  background-color: rgba(225, 144, 20, 0.05);
+}
