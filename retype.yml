@@ -3,9 +3,9 @@ output: dist
 url: https://comunidad.animaespacio.org
 
 branding:
-  title: Ánima EC
   label: Wiki comunitaria
   logo: logo.png
+  logoHeight: 52
 
 footer:
   copyright: © Ánima Espacio Cultural
