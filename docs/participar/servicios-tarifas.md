@@ -5,6 +5,8 @@ icon: bookmark
 order: 20
 ---
 
+![](/assets/banners/participar.svg)
+
 Estos son nuestros valores de referencia. **Todas las tarifas deben confirmarse antes de cerrar un acuerdo**, ya que pueden cambiar según la situación.
 
 ---

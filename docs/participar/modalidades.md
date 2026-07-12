@@ -5,6 +5,8 @@ icon: list-unordered
 order: 30
 ---
 
+![](/assets/banners/participar.svg)
+
 Elegí la que mejor se adapte a lo que querés hacer. Podés empezar con una y pasar a otra con el tiempo.
 
 ## ¿Cuál es para mí?

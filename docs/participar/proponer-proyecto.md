@@ -5,6 +5,8 @@ icon: megaphone
 order: 10
 ---
 
+![](/assets/banners/participar.svg)
+
 ¿Tenés una idea? Ánima recibe proyectos culturales, sociales, educativos y artísticos que compartan nuestros valores.
 
 Quien coordina una propuesta puede convertirse en **mantenedorx** y trabajar con el apoyo del equipo de gestión.

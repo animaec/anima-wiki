@@ -5,6 +5,8 @@ icon: question
 order: 30
 ---
 
+![](/assets/banners/informacion.svg)
+
 Estas son las dudas que nos hacen más seguido y que no están cubiertas en el resto de la wiki. Si buscás detalle sobre modalidades, tarifas o cómo funciona la comunidad, esas páginas tienen la info completa.
 
 ## Logística

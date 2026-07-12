@@ -5,6 +5,8 @@ icon: home
 order: 10
 ---
 
+![](/assets/banners/comunidad.svg)
+
 ## Comunidad abierta
 
 Ánima no es solo un espacio físico. Es una comunidad abierta donde cualquier persona que comparta nuestros valores puede aportar tiempo, conocimientos y habilidades.

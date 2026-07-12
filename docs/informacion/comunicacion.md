@@ -5,6 +5,8 @@ icon: comment-discussion
 order: 40
 ---
 
+![](/assets/banners/informacion.svg)
+
 Uno de los beneficios de trabajar con Ánima es que **ayudamos a comunicar tu actividad**.
 
 Nos importa que tus talleres, eventos y proyectos lleguen a la gente que los necesita.

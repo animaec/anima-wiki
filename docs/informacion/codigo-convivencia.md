@@ -5,6 +5,8 @@ icon: heart
 order: 50
 ---
 
+![](/assets/banners/informacion.svg)
+
 Al participar en Ánima, en espacios físicos o digitales, aceptamos estos acuerdos.
 
 **Es público y se revisa en Ágora cuando la comunidad lo considere necesario.**

@@ -5,6 +5,8 @@ icon: mail
 order: 20
 ---
 
+![](/assets/banners/informacion.svg)
+
 ¿Querés sumarte, tenés una pregunta o querés proponer algo? Estas son todas las formas de conectar con Ánima.
 
 ## Escribinos

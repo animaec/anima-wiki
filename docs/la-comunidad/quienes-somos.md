@@ -5,6 +5,8 @@ icon: people
 order: 20
 ---
 
+![](/assets/banners/comunidad.svg)
+
 ## Nuestra historia
 
 Ánima surge como colectivo en **2015**. Desde entonces, trabajamos para democratizar la cultura y crear espacios de encuentro donde cualquier persona pueda crear, explorar y compartir.

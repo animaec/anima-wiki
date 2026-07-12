@@ -6,6 +6,8 @@ icon: rocket
 order: 100
 ---
 
+![](/assets/banners/home.svg)
+
 # Ánima Espacio Cultural
 
 ## Crear, explorar y compartir
