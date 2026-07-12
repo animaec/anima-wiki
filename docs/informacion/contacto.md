@@ -4,231 +4,35 @@ description: Todas las formas de conectar con Ánima Espacio Cultural.
 order: 20
 ---
 
-¿Querés sumarte? ¿Tenés una pregunta? ¿Querés proponer algo?
+¿Querés sumarte, tenés una pregunta o querés proponer algo? Estas son todas las formas de conectar con Ánima.
 
-Acá están todas las formas de conectar con Ánima.
+## Escribinos
 
----
+- 📧 Email — [hola@animaespacio.org](mailto:hola@animaespacio.org)
+- 💬 WhatsApp — [+598 99 411 203](https://wa.me/59899411203)
+- 📱 Instagram — [@anima_espacio_cultural](https://www.instagram.com/anima_espacio_cultural/)
+- 📘 Facebook — [Ánima Espacio Cultural](https://www.facebook.com/animaespaciocultural/)
+- 💼 LinkedIn — [Ánima Gestión Cultural](https://www.linkedin.com/company/anima-gestion-cultural-sas/)
+- ✈️ Telegram — [@animaec](https://t.me/s/animaec)
+- 🌐 Web — [animaespacio.org](https://animaespacio.org) · [Programación](https://programa.animaespacio.org)
 
-## Comunicación directa
+Horario de atención: lunes a viernes, 10 a 18 h (Uruguay). Respondemos en un máximo de 48 horas.
 
-### 📧 Email
-**hola@animaespacio.org**
+## Ubicación
 
-Respuesta en máximo 48 horas. Usá para:
-- Propuestas de proyectos
-- Consultas sobre modalidades
-- Coordinaciones
-- Preguntas generales
+📍 **Casa Soca** — San José 822, Montevideo, Uruguay. CP 11100 (entre Andes y Florida, Centro)
 
-### 📱 Teléfono / WhatsApp
-**+598 99 411 203**
+[Ver en Google Maps](https://www.google.es/maps/place/%C3%81nima+Espacio+Cultural/@-34.9075344,-56.2012558,17z)
 
-Para cosas más urgentes o coordinar encuentros.
+La casa está abierta lunes a sábado, de 8 a 21 h. Si querés visitarla sin una actividad programada, escribinos antes para coordinar.
 
-### 🕐 Horario de atención
-De lunes a viernes, 10 a 18 h (Uruguay)
+## Según lo que necesites
 
----
-
-## Ubicación física
-
-📍 **Ánima Espacio Cultural**  
-San José 822  
-Montevideo, Uruguay  
-
-Barrio Larrañaga, cerca de Avenida Ellauri.
-
-[Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=San+Jos%C3%A9+822%2C+Montevideo%2C+Uruguay)
-
-**Acceso:** La casa está abierta durante horarios comunes (lunes a sábado, 8 a 21 h)
-
-Si querés visitarla sin actividad programada, avísanos para coordinar.
+- **Proponer un proyecto** → [Proponer un proyecto](/participar/proponer-proyecto.md)
+- **Sumarte a colaborar** → [Modalidades](/participar/modalidades.md)
+- **Registrar una actividad** → [Formulario de registro](https://formularios.animaespacio.org/form/D0UWHdgX)
+- **Otras dudas** → [Preguntas frecuentes](/informacion/preguntas-frecuentes.md)
 
 ---
 
-## Redes sociales
-
-### 📱 Instagram
-**@anima_espacio_cultural**
-
-- Actividades
-- Proyectos
-- Detrás de escenas
-- Invitaciones especiales
-- Respuesta a mensajes
-
-### 📕 Facebook
-**Ánima Espacio Cultural**
-
-- Eventos
-- Novedades
-- Comunidad
-
-### 🌐 Web
-**animaespacio.org**
-
-Información general, calendario, servicios
-
----
-
-## Newsletter
-
-Suscribite para recibir:
-- Actividades próximas
-- Convocatorias
-- Novedades de la casa
-- Historias de colaboradorxs
-
-**Suscribirme a newsletter** _(próximamente)_
-
----
-
-## Calendarios
-
-### 📅 Próxima Ágora
-
-Asamblea mensual abierta a todxs.
-
-**Próxima:** [fecha y hora]  
-**Lugar:** Casa Soca, San José 822
-
-**Ver calendario completo** _(próximamente)_
-
-### 📅 Actividades
-
-Talleres, cursos, eventos y más.
-
-**Explorar calendario de actividades** _(próximamente)_
-
----
-
-## Formas específicas de contacto
-
-### ¿Querés proponer un proyecto?
-
-📧 **hola@animaespacio.org**
-
-Asunto: "Propuesta: [nombre]"
-
-O completá el formulario: [link]
-
-### ¿Tenés contenido para comunicar?
-
-📧 **comunicacion@animaespacio.org**
-
-Envía información de tu actividad para difundir.
-
-### ¿Querés colaborar en algo específico?
-
-Escribí indicando área de interés:
-- Gestión cultural
-- Comunicación
-- Diseño
-- Tecnología
-- Mantenimiento
-- Otros
-
-### ¿Pregunta sobre servicios o tarifas?
-
-📧 **hola@animaespacio.org** o 📱 **+598 99 411 203**
-
-Consultamos tu situación y encontramos la mejor modalidad.
-
-### ¿Situación de emergencia o conflicto?
-
-Llamá al equipo. Conversamos directamente.
-
-📱 **+598 99 411 203**
-
----
-
-## Para visitantes
-
-### Si venís por primera vez
-
-✨ **Bienvenidx**
-
-- Entra sin miedo
-- Preguntá lo que necesites
-- Alguien te orienta
-- La casa es para ti
-
-### Si querés recorrer
-
-Avísanos y coordinamos.
-
-📧 **hola@animaespacio.org**
-
-Podemos hacer un tour mostrándote espacios, historia, cómo funciona.
-
-### Si solo querés asistir a una actividad
-
-Mirá el calendario y regístrate en la que te interese.
-
-**Ver actividades** _(próximamente)_
-
----
-
-## Información importante
-
-### Dirección legal
-
-**Ánima Gestión Cultural SAS**  
-San José 822, Montevideo, Uruguay
-
-### Administración
-
-La casa es propiedad de la Intendencia de Montevideo.  
-Ánima Gestión Cultural SAS gestiona el proyecto.
-
-### Cómo seguir conectadx
-
-1. Suscribite a newsletter
-2. Seguí en Instagram
-3. Asistí a una Ágora
-4. Escribí para estar en lista de contacto
-
----
-
-## Feedback y sugerencias
-
-¿Tenés una idea para mejorar Ánima?
-
-🔗 Nos encantaría escucharte.
-
-Escribí a: **hola@animaespacio.org**
-
-O comenta en la próxima Ágora.
-
----
-
-## Próximos pasos
-
-### 1️⃣ Si querés colaborar
-[Ir a Modalidades](/participar/modalidades.md)
-
-### 2️⃣ Si querés proponer algo
-[Ir a Proponer un proyecto](/participar/proponer-proyecto.md)
-
-### 3️⃣ Si querés preguntar
-[Ir a Preguntas frecuentes](/informacion/preguntas-frecuentes.md)
-
-### 4️⃣ Si querés saber más
-[Ir a ¿Quiénes somos?](/la-comunidad/quienes-somos.md)
-
----
-
-## ¡Nos vemos en Ánima!
-
-📍 **San José 822**  
-📧 **hola@animaespacio.org**  
-📱 **+598 99 411 203**  
-📷 **@anima_espacio_cultural**  
-🌐 **animaespacio.org**
-
----
-
-**Última actualización:** julio 2026
-
-Ánima está en constante evolución. Si algo cambió, avísanos.
+**Ánima Gestión Cultural SAS** gestiona el proyecto en un espacio de la Intendencia de Montevideo.

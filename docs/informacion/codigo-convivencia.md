@@ -163,7 +163,7 @@ En Ánima usamos:
 
 Conversamos en la próxima Ágora o escribí a:
 
-📧 **hola@animaespacio.org**
+📧 **[hola@animaespacio.org](mailto:hola@animaespacio.org)**
 
 ---
 

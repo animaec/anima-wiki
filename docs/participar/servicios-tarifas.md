@@ -154,8 +154,8 @@ La combinación dinero + horas es flexible.
 
 Cada acuerdo es único. Escribí a:
 
-📧 **hola@animaespacio.org**  
-📱 **+598 99 411 203**
+📧 **[hola@animaespacio.org](mailto:hola@animaespacio.org)**  
+📱 **[+598 99 411 203](https://wa.me/59899411203)**
 
 Conversamos tu situación específica y encontramos la mejor modalidad.
 

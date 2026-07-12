@@ -27,9 +27,12 @@ La estrategia se revisa constantemente según resultados y necesidades de la com
 
 Según tu actividad, podemos usar:
 
-- 🌐 **Sitio web** — animaespacio.org
-- 📱 **Instagram** — @anima_espacio_cultural
-- 📕 **Facebook** — Ánima Espacio Cultural
+- 🌐 **Sitio web** — [animaespacio.org](https://animaespacio.org) / [Programación](https://programa.animaespacio.org)
+- 📱 **Instagram** — [@anima_espacio_cultural](https://www.instagram.com/anima_espacio_cultural/)
+- 📘 **Facebook** — [Ánima Espacio Cultural](https://www.facebook.com/animaespaciocultural/)
+- 💼 **LinkedIn** — [Ánima Gestión Cultural](https://www.linkedin.com/company/anima-gestion-cultural-sas/)
+- ✈️ **Telegram** — [@animaec](https://t.me/s/animaec)
+- 💬 **WhatsApp** — [+598 99 411 203](https://wa.me/59899411203)
 - 📧 **Email** — newsletter de la comunidad
 - 📋 **Historias** — actualizaciones en redes
 - 🖼️ **Afiches** — piezas impresas
@@ -223,7 +226,7 @@ Podemos:
 
 O compartí la info directamente:
 
-📧 **comunicacion@animaespacio.org**
+📧 **[comunicacion@animaespacio.org](mailto:comunicacion@animaespacio.org)**
 
 ---
 
@@ -231,10 +234,48 @@ O compartí la info directamente:
 
 Escribí a:
 
-📧 **hola@animaespacio.org**  
-📱 **+598 99 411 203**
+📧 **[hola@animaespacio.org](mailto:hola@animaespacio.org)**  
+📱 **[+598 99 411 203](https://wa.me/59899411203)**
 
 Te asesoramos en qué canales funcionan mejor para tu actividad.
+
+---
+
+## Manual de marca
+
+_Sección en construcción — estructura lista, contenido pendiente de definir._
+
+### Logo
+
+_(pendiente)_
+
+- Logo principal
+- Variantes (color, blanco, monocromo)
+- Espacio de protección y tamaño mínimo
+- Usos incorrectos
+
+### Colores
+
+_(pendiente)_
+
+- Paleta principal
+- Paleta secundaria
+- Códigos (HEX / RGB)
+
+### Tipografía
+
+_(pendiente)_
+
+- Fuente principal
+- Fuente secundaria
+- Jerarquía (títulos, cuerpo, destacados)
+
+### Pie de página
+
+_(pendiente)_
+
+- Elementos obligatorios
+- Formato en web y piezas impresas
 
 ---
 

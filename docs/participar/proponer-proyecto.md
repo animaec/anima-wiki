@@ -78,7 +78,7 @@ Cuando tengas todo listo, descargá y completá:
 
 O escribí directamente a:
 
-📧 **hola@animaespacio.org**
+📧 **[hola@animaespacio.org](mailto:hola@animaespacio.org)**
 
 Asunto: "Propuesta: [nombre de tu proyecto]"
 
@@ -155,8 +155,8 @@ El equipo de Ánima puede ayudarte a:
 
 Escribí o llamá:
 
-📧 **hola@animaespacio.org**  
-📱 **+598 99 411 203**
+📧 **[hola@animaespacio.org](mailto:hola@animaespacio.org)**  
+📱 **[+598 99 411 203](https://wa.me/59899411203)**
 
 ---
 
@@ -198,7 +198,7 @@ Todxs estos son **bienvenidxs en Ánima**.
 
 1. Asistí a la próxima Ágora
 2. Preparate la información
-3. Escribí a **hola@animaespacio.org**
+3. Escribí a **[hola@animaespacio.org](mailto:hola@animaespacio.org)**
 
 Nos encantaría conocer tu proyecto.
 

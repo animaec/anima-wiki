@@ -26,10 +26,10 @@ Acá recibimos talleres, encuentros, eventos y procesos creativos. Somos un punt
 
 ## Ubicación
 
-📍 **Casa Soca** — San José 822, Montevideo, Uruguay
+📍 **Casa Soca** — San José 822, Montevideo, Uruguay. CP 11100 (entre Andes y Florida, Centro)
 
-Patrimonio cultural en el corazón del barrio Larrañaga.
+Patrimonio cultural en el corazón de Centro. [Ver en Google Maps](https://www.google.es/maps/place/%C3%81nima+Espacio+Cultural/@-34.9075344,-56.2012558,17z)
 
 ## Conectá con nosotros
 
-📧 **hola@animaespacio.org** &nbsp;·&nbsp; 📱 **+598 99 411 203** &nbsp;·&nbsp; 📷 **@anima_espacio_cultural**
+📧 **[hola@animaespacio.org](mailto:hola@animaespacio.org)** &nbsp;·&nbsp; 💬 **[WhatsApp](https://wa.me/59899411203)** &nbsp;·&nbsp; 📷 **[@anima_espacio_cultural](https://www.instagram.com/anima_espacio_cultural/)**
