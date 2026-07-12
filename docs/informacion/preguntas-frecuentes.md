@@ -1,6 +1,7 @@
 ---
 title: Preguntas frecuentes
 description: Respuestas rápidas a las dudas más comunes sobre Ánima.
+icon: question
 order: 30
 ---
 

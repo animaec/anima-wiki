@@ -1,6 +1,7 @@
 ---
 title: Código de convivencia
 description: Acuerdos de relacionamiento y cuidado del espacio en Ánima.
+icon: heart
 order: 50
 ---
 

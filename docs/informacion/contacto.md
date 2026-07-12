@@ -1,6 +1,7 @@
 ---
 title: Contacto
 description: Todas las formas de conectar con Ánima Espacio Cultural.
+icon: mail
 order: 20
 ---
 

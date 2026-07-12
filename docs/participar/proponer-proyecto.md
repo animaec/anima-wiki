@@ -1,6 +1,7 @@
 ---
 title: Proponer un proyecto
 description: Pasos para proponer un proyecto cultural, social o educativo.
+icon: megaphone
 order: 10
 ---
 

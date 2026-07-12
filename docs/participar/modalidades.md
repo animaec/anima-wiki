@@ -1,6 +1,7 @@
 ---
 title: Modalidades para participar
 description: Las distintas formas de sumarte a la comunidad de Ánima.
+icon: list-unordered
 order: 30
 ---
 

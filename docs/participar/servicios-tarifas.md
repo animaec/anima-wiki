@@ -1,6 +1,7 @@
 ---
 title: Servicios y tarifas
 description: Valores de referencia para el uso de espacios y actividades.
+icon: bookmark
 order: 20
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Estrategia de comunicación
 description: Cómo comunicamos las actividades y proyectos de la comunidad.
+icon: comment-discussion
 order: 40
 ---
 

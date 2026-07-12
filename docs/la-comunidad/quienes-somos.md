@@ -1,6 +1,7 @@
 ---
 title: Quiénes somos
 description: Historia, valores y ubicaciones de Ánima Espacio Cultural.
+icon: people
 order: 20
 ---
 

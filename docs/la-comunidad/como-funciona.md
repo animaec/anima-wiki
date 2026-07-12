@@ -1,6 +1,7 @@
 ---
 title: Cómo funciona Ánima
 description: Estructura comunitaria, roles y toma de decisiones en Ánima.
+icon: home
 order: 10
 ---
 

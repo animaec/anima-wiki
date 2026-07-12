@@ -2,6 +2,7 @@
 title: Ánima Espacio Cultural
 description: Wiki comunitaria de Ánima Espacio Cultural — Crear, explorar y compartir
 label: Inicio
+icon: rocket
 order: 100
 ---
 
